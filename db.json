@@ -1,11 +1,5 @@
 
-{  
-    "employee": {  
-        "id":           1,
-        "name":         "Admin",   
-        "location":     "USA"
-    }  
-}
+
 
 {  
     "employees": [
